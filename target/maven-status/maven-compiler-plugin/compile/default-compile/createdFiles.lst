@@ -1,0 +1,12 @@
+me\quillpaper\quillpaperv1\necromancer\necromancer.class
+me\quillpaper\quillpaperv1\events\guiClick$1.class
+me\quillpaper\quillpaperv1\management\onJoin.class
+me\quillpaper\quillpaperv1\lore\lore.class
+me\quillpaper\quillpaperv1\management\onLeave.class
+me\quillpaper\quillpaperv1\commands\GUICommand.class
+me\quillpaper\quillpaperv1\QuillPaperv1.class
+me\quillpaper\quillpaperv1\arsonist\arsonBuffs.class
+me\quillpaper\quillpaperv1\berserker\ZerkVamp.class
+me\quillpaper\quillpaperv1\archer\BowMan.class
+me\quillpaper\quillpaperv1\events\guiClick.class
+me\quillpaper\quillpaperv1\priest\bookEffects.class

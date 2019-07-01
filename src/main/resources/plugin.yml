@@ -1,0 +1,15 @@
+name: QuillFantasy
+version: ${project.version}
+main: me.quillpaper.quillpaperv1.QuillPaperv1
+api-version: 1.13
+authors: [Quill]
+description: Experimental Plugin
+website: quilldev.github.io
+
+information:
+  description: Welcome to QuillFantasy! A plugin developed by Quill, type /class to choose your class to get started!
+commands:
+  class:
+    description: Opens the class selector gui.
+  classkits:
+    description: Get class kits window.
